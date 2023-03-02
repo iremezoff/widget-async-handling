@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZXufub1dSWx4IKF/rfEMj5rjx6BtJLJPlmDHHCMvgWynyZEiJN8iItA8ZqEp1RKsyKviNTah6fFauQWcwK6qmA==",
+  "dgSpecHash": "X6BIPBONOQCdAzsOg1ei9wOXKLxDpmu/Io0k8g4ZrKT5UmOac5LK8zqKDw+r1UCGqOjClqa502twhgpKx4R+1w==",
   "success": true,
-  "projectFilePath": "/Users/iremezoff/xcritical/libs/widget-async-handling/WebApplication1/WebApplication1.csproj",
+  "projectFilePath": "/Users/iremezoff/xcritical/libs/widget-async-handling/TimedHostingService/WebApplication1/WebApplication1.csproj",
   "expectedPackageFiles": [
     "/Users/iremezoff/.nuget/packages/azure.core/1.25.0/azure.core.1.25.0.nupkg.sha512",
     "/Users/iremezoff/.nuget/packages/azure.identity/1.7.0/azure.identity.1.7.0.nupkg.sha512",
